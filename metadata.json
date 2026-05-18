@@ -1,0 +1,8 @@
+{
+  "name": "Neon Snake Audio",
+  "description": "A dark neon stylized snake game paired with a music player featuring AI generated dummy music tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
